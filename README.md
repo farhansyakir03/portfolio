@@ -22,19 +22,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Walmart Sales Data Analysis
 
-**Goal:** This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour.
+**Goal:** The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-**Code:** [`Walmart Sales Data Analysis`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`Walmart Sales Data Analysis`](https://github.com/farhansyakir03/portfolio/blob/main/sql.queries) 
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Description:** This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** data wrangling, feature engineering, explotary data analysis (EDA).
 
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
-
+**Technology:** SQL
 
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
