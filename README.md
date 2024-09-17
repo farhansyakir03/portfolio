@@ -5,7 +5,7 @@ Hi, I'm Farhan! I have an analytical background in Biotechnology and have recent
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/farhansyakir03/portfolio/main/README.md#about)
+- [About]([https://github.com/farhansyakir03/portfolio/main/README.md#about](https://github.com/farhansyakir03/portfolio#about))
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
