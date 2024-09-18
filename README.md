@@ -10,11 +10,13 @@ In this section I will list data analytics projects briefly describing the techn
 ### Bike Store Customer Insights Dashboard
 **File:** [`Bike Store Customer Insights Dashboard`](https://github.com/farhansyakir03/portfolio/blob/main/Excel%20Project%20Dataset.xlsx)
 
+**Data Source:** [`Excel Project Dataset`](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+
 **Goal:** To determine what the ideal customers for a bike shop.
 
 **Description:** The bike shop industry has seen significant growth in recent years, making it crucial for businesses to gain a deep understanding of their customers in order to offer the best products and services. This project focuses on identifying the ideal customers for a bike shop by analyzing their key characteristics.
 
-**Skills:** data cleaning, data analysis, pivot table, data visualization.
+**Skills:** Data Cleaning and Transformation, Formulas and Functions, Pivot Tables and Pivot Charts, Data Analysis and Visualization
 
 **Technology:** Excel
 
@@ -26,69 +28,39 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** [`Walmart Sales Data Analysis`](https://github.com/farhansyakir03/portfolio/blob/main/sql.queries) 
 
+**Data Source:** [`Walmart Sales Data Analysis`](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
+
 **Description:** This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
 
-**Skills:** data wrangling, feature engineering, explotary data analysis (EDA).
+**Skills:** Database Design and Management, SQL Query Writing, Data Manipulation, Data Wrangling, Explotary Data Analysis (EDA).
 
 **Technology:** SQL
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+### Data Professional Survey Breakdown
+**File:** [`Data Professional Survey Breakdown`](https://app.powerbi.com/view?r=eyJrIjoiYjZhZTI2MWQtZTg1MC00OGU5LWE3MGYtNzYzZDE2ODZkZTU3IiwidCI6ImNkY2JiMGUyLTlmZWEtNGY1NC04NjcwLTY3MjcwNzc5N2FkYSIsImMiOjEwfQ%3D%3D)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Data Source:** [`Data Professional Survey Breakdown`](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
+**Description:** I imported, cleaned, and analyzed the Data Professional Survey Breakdown using Power Query in Microsoft Power BI. I then visualized key insights from the analysis through interactive dashboards and reports, enhancing data-driven decision-making.
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+**Skills:** Data Import and Transformation, Data Modeling, Data Visualization, DAX (Data Analysis Expressions)
 
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
+**Technology:** Microsoft Power BI
 
 
+### King County, Washington House Sales Dashboard
+**File:** [`King County, Washington House Sales Dashboard`](https://public.tableau.com/views/KingCountyHouseSales_17263015930780/KingCountyHouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Legendary Pokémon Analysis
+**Description:** I imported, cleaned, and analyzed the King County, Washington house sales data using Tableau. I created interactive dashboards and reports to visualize key insights, supporting enhanced data-driven decision-making.
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Skills:** Data Connection and Integration, Data Visualization, Dashboard and Report Design, Filters and Parameters, Data Analysis
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
+**Technology:** Tableau
 
 
 
 
-
-## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
-
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@MUHAMMAD FARHAN SYAKIR BIN NOR AZMAN](https://www.linkedin.com/in/muhammadfarhansyakirbinnorazman/)
+- Email: farhan980630@gmail.com
