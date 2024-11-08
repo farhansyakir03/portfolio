@@ -7,6 +7,17 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Toman Bike Share Data Analysis and Visualization 
+**File:** [`Toman Bike Shop`](https://app.powerbi.com/groups/me/reports/278514e2-0802-449d-93ba-4fbb1747af60/29d786b3f4d025873058?experience=power-bi)
+
+**Goal:** To deliver actionable insights for the Toman Bike Share company by analyzing key performance metrics like revenue, rider demographics, and usage patterns, facilitating better business decisions through data.
+
+**Description:** This project involves an end-to-end data analytics pipeline. Data from the Toman Bike Share program is processed and analyzed to uncover insights such as hourly revenue trends, profit patterns, seasonal variations in bike usage, and rider demographics (age, gender, and region). Using SQL for database management and Power BI for interactive dashboards, the project helps stakeholders visualize and understand business performance and customer behavior. By applying ETL (Extract, Transform, Load) techniques and crafting data models, this project demonstrates comprehensive data analysis skills that are crucial for improving operational efficiency.
+
+**Skills:** Data Cleaning and Transformation (SQL), Data Visualization (Power BI), Data Modeling, Descriptive Analytics, Performance Analysis (revenue, profit, demographics)
+
+**Technology:** SQL, Microsoft Power BI, ETL Processes, Microsoft Excel.
+
 ### Bike Store Customer Insights Dashboard
 **File:** [`Bike Store Customer Insights Dashboard`](https://github.com/farhansyakir03/portfolio/blob/main/Excel%20Project%20Dataset.xlsx)
 
